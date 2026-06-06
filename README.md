@@ -35,8 +35,3 @@ I’m currently building projects in:
 - Linux debugging and replay tools
 
 I’ll pin the best ones here as they become public and polished.
-
-## Contact
-
-- Email: s2773367@ed.ac.uk
-- [LinkedIn](https://www.linkedin.com/in/sravankumar-varma-aa23b32ab/)
