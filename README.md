@@ -39,5 +39,4 @@ I’ll pin the best ones here as they become public and polished.
 ## Contact
 
 - Email: s2773367@ed.ac.uk
-- GitHub: [github.com/shrxvxn007](https://github.com/shrxvxn007)
-- LinkedIn: [add your LinkedIn URL here](https://www.linkedin.com/in/sravankumar-varma-aa23b32ab/)
+- [LinkedIn](https://www.linkedin.com/in/sravankumar-varma-aa23b32ab/)
