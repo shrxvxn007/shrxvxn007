@@ -6,7 +6,6 @@ Interested in **quant development, software engineering, and machine learning**,
 
 ## Currently
 
-- Studying Computer Science & Mathematics at Edinburgh
 - Machine Learning Intern at Avenir Digital
 - Placed 5th in Europe at Citadel Terminal
 - Learning low-latency systems, ML infrastructure, and market simulation
